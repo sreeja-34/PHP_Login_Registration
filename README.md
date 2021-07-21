@@ -1,2 +1,2 @@
-# PHP_Login_Registration
-CLG project
+# PHP login-Registration Project
+## By Sreeja
