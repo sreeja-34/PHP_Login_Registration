@@ -1,4 +1,8 @@
 body {
+     
+ background-image: url("who.jpg");
+ background-color: #cccccc;
+}
      font-family:Arial, Sans-Serif;
 }
 .clearfix:before, .clearfix:after{
